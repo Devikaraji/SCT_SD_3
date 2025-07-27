@@ -22,8 +22,12 @@ It is a Python-based program that **automatically solves Sudoku puzzles** using 
 ---
 
 ## 🖼️ Demo Screenshot
-_Add a screenshot here if you want (optional)_
-
+![Screenshot](./1.png)
+![Screenshot](./2.png)
+![Screenshot](./3.png)
+![Screenshot](./4.png)
+![Screenshot](./5.png)
+![Screenshot](./6.png)
 ---
 
 ## ▶️ How to Run
